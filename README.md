@@ -1,4 +1,4 @@
-<p align="center"><img src="src/CubeLauncher/Assets/icon.png" width="96" style="image-rendering:pixelated"></p>
+<p align="center"><img src="src\CubeLauncher\Assets\icon.png" width="96" style="image-rendering:pixelated"></p>
 
 <h1 align="center">CubeLauncher</h1>
 <p align="center">去中心化的 Minecraft 启动器 · 没有服务器 · 单个 exe · 开源 GPL-3.0</p>
@@ -73,6 +73,6 @@ tools/Release/  发布工具：生成密钥、签名清单、校验
 ## 声明
 
 本项目与 Mojang、Microsoft 无关，Minecraft 是 Mojang AB 的商标。
-本项目采用了OpenLauncher项目(https://honghemc.cn/app/openlauncher.html)向他们致敬。
+本项目采用了OpenLauncher项目 https://honghemc.cn/app/openlauncher.html 向他们致敬。
 界面大多数均为DeepSeek生成，代码开源（GPL-3.0），若出现问题请前往Github仓库反馈。
 镜像服务由 bangbang93（BMCLAPI）、MCIM 等社区成员公益提供，请合理使用。

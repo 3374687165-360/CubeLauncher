@@ -1,5 +1,3 @@
-<p align="center"><img src="src\CubeLauncher\Assets\icon.png" width="96" style="image-rendering:pixelated"></p>
-
 <h1 align="center">CubeLauncher</h1>
 <p align="center">去中心化的 Minecraft 启动器 · 没有服务器 · 单个 exe · 开源 GPL-3.0</p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">CubeLauncher</h1>
+<h1 align="center">CubeLauncher Beta</h1>
 <p align="center">Minecraft 启动器 ·  单个 exe · 开源 GPL-3.0 · 基于OpenLauncher</p>
 
 ---
@@ -40,7 +40,7 @@
 
 ## Release 直接下载
 
-打开 Release 页面直接下载启动器 (zip) 格式
+打开 Release 页面直接下载启动器 (exe) 格式，包含两种版本，标准版与轻量版。
 
 ## 技术介绍
 

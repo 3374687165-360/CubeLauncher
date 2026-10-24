@@ -39,6 +39,10 @@
 .\build.ps1        # 输出 dist\CubeLauncher.exe
 ```
 
+## Release 直接下载
+
+打开 Release 页面直接下载启动器 (zip) 格式
+
 ## 去中心化是怎么做到的
 
 ```

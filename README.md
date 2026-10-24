@@ -66,9 +66,8 @@ src/CubeLauncher/
   Game/       版本 JSON 合并、安装器（原版 / Fabric / Quilt / Forge / NeoForge）、启动参数、Java 管理、崩溃分析
   Accounts/   离线 / 微软 / 外置登录、authlib-injector、皮肤
   Content/    Modrinth / CurseForge、本地 Mod 管理、整合包导入导出
-  Update/     签名清单与自更新
-  UI/         WPF 界面
-tools/Release/  发布工具：生成密钥、签名清单、校验
+  Update/     预留的自更新功能
+  UI/         界面
 ```
 
 ## 声明
